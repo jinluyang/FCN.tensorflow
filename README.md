@@ -1,3 +1,4 @@
+# 注意，数据介绍也改了 http://www.datafountain.cn/#/competitions/270/data-intro 可以从数据下载页面下载数据集，不大，43.6M
 # FCN.tensorflow
 Tensorflow implementation of [Fully Convolutional Networks for Semantic Segmentation](http://arxiv.org/pdf/1605.06211v1.pdf) (FCNs). 
 
